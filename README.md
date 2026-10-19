@@ -13,8 +13,8 @@ Develop a model capable of predicting flight duration and arrival delay while mi
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Jupyter
+- Jupyter Notebook
 
 ## Project Status
 
-Early development.
+Gathering historical test data
